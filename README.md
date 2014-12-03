@@ -1,4 +1,6 @@
 instacity-app
 =============
 
-Instacity Node Js App
+JUST FOR FUN
+
+Instacity Node Js Realtime App
