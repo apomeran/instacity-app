@@ -1,6 +1,9 @@
 instacity-app
 =============
 
-JUST FOR FUN
 
-Instacity Node Js Realtime App
+'Instacity'
+=============
+Node Js SocketIO - Realtime App integration with Instagram
+=============
+JUST FOR FUN
